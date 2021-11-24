@@ -39,8 +39,16 @@ source ~/.config/nvim/plugins/airline.vim
 "CoC
 "Commentary
 source ~/.config/nvim/plugins/editorconfig.vim
+"Eunuch
+"Exchange
+"Floatterm
 source ~/.config/nvim/plugins/dracula.vim
 source ~/.config/nvim/plugins/fugitive.vim
+source ~/.config/nvim/plugins/fzf.vim
+source ~/.config/nvim/plugins/heritage.vim
+"Lastplace
+"Lion
+source ~/.config/nvim/plugins/markdown-preview.vim
 call plug#end()
 
 "---------------------------------------------------------------------------
