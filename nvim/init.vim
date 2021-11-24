@@ -38,6 +38,7 @@ call plug#begin('~/.config/nvim/plugged')
 source ~/.config/nvim/plugins/airline.vim
 "CoC
 "Commentary
+source ~/.config/nvim/plugins/editorconfig.vim
 source ~/.config/nvim/plugins/dracula.vim
 source ~/.config/nvim/plugins/fugitive.vim
 call plug#end()
